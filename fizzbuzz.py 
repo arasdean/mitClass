@@ -1,0 +1,13 @@
+# sequence of fibonacci
+# 1, 1, 2, 3, 5, 8, 13, 21, 34, 55
+# what is recursion? calling on itself
+#fib(0) == 1 <-- true
+# fib(1) == 1
+
+
+
+def fib(n):
+n= 1
+
+
+(n-2) (n-1)
